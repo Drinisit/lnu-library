@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lnu-library/static/css/main.3a9df4bf.css",
+    "main.js": "/lnu-library/static/js/main.4fa5e918.js",
+    "index.html": "/lnu-library/index.html",
+    "main.3a9df4bf.css.map": "/lnu-library/static/css/main.3a9df4bf.css.map",
+    "main.4fa5e918.js.map": "/lnu-library/static/js/main.4fa5e918.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a9df4bf.css",
+    "static/js/main.4fa5e918.js"
+  ]
+}
