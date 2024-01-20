@@ -1,17 +1,18 @@
 import React from 'react'
+import Logo from '../assets/lib-logo.png'
 
 const Nav = () => {
   return (
-    <div className='w-full py-4 px-8'>
-        <div className='text-md flex justify-between'>
-            <h1>LNU</h1>
+    <div className='w-full py-4 px-16'>
+        <div className='text-md flex justify-between items-center'>
+            <img className='h-14' src={Logo} alt="" />
 
             <ul className='flex'>
-                <li className='px-2'>Home</li>
-                <li className='px-2'>Resource</li>
-                <li className='px-2'>Services</li>
-                <li className='px-2'>Library Branches</li>
-                <li className='px-2'>About us</li>
+                <li className='px-4 font-bold'>Home</li>
+                <li className='px-4 font-bold'>Resource</li>
+                <li className='px-4 font-bold'>Services</li>
+                <li className='px-4 font-bold'>Library Branches</li>
+                <li className='px-4 font-bold'>About us</li>
             </ul>
 
             <button>Sign in</button>
