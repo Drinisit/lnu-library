@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom'
 const Navbar = () => {
   return (
     <div>
-        <header>
+        <header  className='text-center'>
             <nav>
-                <ul>
+                <ul className='flex gap-2 '>
                     <li><Link to="/">Home</Link></li>
                     <li><Link to="/books">Books</Link></li>
                 </ul>
