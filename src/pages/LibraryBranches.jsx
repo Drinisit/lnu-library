@@ -2,14 +2,14 @@ import React from 'react'
 import Navbar from '../components/Navbar'
 import Search from '../components/Search'
 
-const Services = () => {
+const LibraryBranches = () => {
   return (
     <div>
-      <Navbar />
+    <Navbar />
       <Search />
-      <h1>This is Services Page</h1>
+      <h1>This is Library Branches Page</h1>
     </div>
   )
 }
 
-export default Services
+export default LibraryBranches
