@@ -1,11 +1,17 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+
+
+
+import Navbar from '../components/Navbar'
+import Search from '../components/Search'
+import Display from '../components/Display'
 
 const Home = () => {
   return (
     <div>
-      <h1>This is Home Page</h1>
-      <Link to ="/books">Books</Link>
+      <Navbar />
+      <Search/>
+      <Display />
     </div>
   )
 }
