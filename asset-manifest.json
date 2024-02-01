@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lnu-library/static/css/main.86326f15.css",
-    "main.js": "/lnu-library/static/js/main.06391303.js",
+    "main.css": "/lnu-library/static/css/main.64adb70c.css",
+    "main.js": "/lnu-library/static/js/main.3b605a8f.js",
     "index.html": "/lnu-library/index.html",
-    "main.86326f15.css.map": "/lnu-library/static/css/main.86326f15.css.map",
-    "main.06391303.js.map": "/lnu-library/static/js/main.06391303.js.map"
+    "main.64adb70c.css.map": "/lnu-library/static/css/main.64adb70c.css.map",
+    "main.3b605a8f.js.map": "/lnu-library/static/js/main.3b605a8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.86326f15.css",
-    "static/js/main.06391303.js"
+    "static/css/main.64adb70c.css",
+    "static/js/main.3b605a8f.js"
   ]
 }
