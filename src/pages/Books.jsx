@@ -16,16 +16,16 @@ const Books = () => {
           <h1>Books display here!</h1>
 
               <div className='bg-amber-500 p-2'>
-                <div className='bg-amber-200 p-4 grid grid-cols-4'>
+                <div className='bg-amber-200 p-4 grid grid-cols-4 gap-4'>
                   {BookList.map( (booklist) => {
                     return (
-                      <div key={booklist.id}>
+                      <div key={booklist.id} className='text-white bg-slate-800 p-2'>
                         <div>
                           <div>
                             <img src={booklist.image} alt="" />
                           </div>
                           <div>
-                            <h1>{booklist.title}</h1>
+                            <h1 className='font-semibold' >{booklist.title}</h1>
                           </div>
                         </div>
                       </div>
