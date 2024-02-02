@@ -1,13 +1,28 @@
 {
   "files": {
-    "main.css": "/lnu-library/static/css/main.64adb70c.css",
-    "main.js": "/lnu-library/static/js/main.3b605a8f.js",
+    "main.css": "/lnu-library/static/css/main.602c6f47.css",
+    "main.js": "/lnu-library/static/js/main.a106d0e2.js",
+    "static/media/img11.png": "/lnu-library/static/media/img11.9f9ddf4fefe129ce2340.png",
+    "static/media/img10.png": "/lnu-library/static/media/img10.fb40774b227169eae0e2.png",
+    "static/media/img5.png": "/lnu-library/static/media/img5.91bff57fc96aca2ab786.png",
+    "static/media/img7.png": "/lnu-library/static/media/img7.58474e383f64d1ce57bf.png",
+    "static/media/img9.png": "/lnu-library/static/media/img9.12ccf41cc99f25bfc19f.png",
+    "static/media/img1.png": "/lnu-library/static/media/img1.2876aa61953d0ae7ebfd.png",
+    "static/media/img4.png": "/lnu-library/static/media/img4.b0d93fa3ca6337296caf.png",
+    "static/media/img8.png": "/lnu-library/static/media/img8.6f5e784a85988eac3611.png",
+    "static/media/img12.png": "/lnu-library/static/media/img12.49bc0cb72524644e9441.png",
+    "static/media/img2.png": "/lnu-library/static/media/img2.4492514b7ca3063ae1aa.png",
+    "static/media/img3.png": "/lnu-library/static/media/img3.ab0939fa389fd654c2b2.png",
+    "static/media/img6.png": "/lnu-library/static/media/img6.5ebd1c79f944a596e9c3.png",
+    "static/media/img15.jpg": "/lnu-library/static/media/img15.f3717a8c7010daf8bd7c.jpg",
+    "static/media/img14.jpg": "/lnu-library/static/media/img14.ef9688466cf924c40dda.jpg",
+    "static/media/img13.jpg": "/lnu-library/static/media/img13.83571e5df472920a50bb.jpg",
     "index.html": "/lnu-library/index.html",
-    "main.64adb70c.css.map": "/lnu-library/static/css/main.64adb70c.css.map",
-    "main.3b605a8f.js.map": "/lnu-library/static/js/main.3b605a8f.js.map"
+    "main.602c6f47.css.map": "/lnu-library/static/css/main.602c6f47.css.map",
+    "main.a106d0e2.js.map": "/lnu-library/static/js/main.a106d0e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.64adb70c.css",
-    "static/js/main.3b605a8f.js"
+    "static/css/main.602c6f47.css",
+    "static/js/main.a106d0e2.js"
   ]
 }
