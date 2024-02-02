@@ -5,7 +5,7 @@ import Search from '../components/Search'
 const LibraryBranches = () => {
   return (
     <div>
-    <Navbar />
+      <Navbar />
       <Search />
       <h1>This is Library Branches Page</h1>
     </div>
