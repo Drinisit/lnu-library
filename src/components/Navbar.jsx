@@ -3,8 +3,12 @@ import { Link, NavLink } from 'react-router-dom'
 
 const Navbar = () => {
   return (
-    <div>
-        <header  className='text-center'>
+    <div className='flex justify-between items-center px-10'>
+
+            <div>
+              <h1 className='text-2xl text-red-900 font-semibold cursor-pointer'>LNU-LIBRARY</h1>
+            </div>
+        
             <nav>
                 <ul className='flex gap-2 '>
                     <li><Link to="/">Home</Link></li>
@@ -14,7 +18,7 @@ const Navbar = () => {
                     <li><NavLink to="/about">About Us</NavLink></li>
                 </ul>
             </nav>
-        </header>
+      
     </div>
   )
 }

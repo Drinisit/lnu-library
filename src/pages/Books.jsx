@@ -15,7 +15,7 @@ const Books = () => {
 
           <h1>Books display here!</h1>
 
-              <div className='bg-amber-500 p-2'>
+              
                 <div className='bg-amber-200 p-4 grid grid-cols-4 gap-4'>
                   {BookList.map( (booklist) => {
                     return (
@@ -32,7 +32,7 @@ const Books = () => {
                     )
                   })}
                 </div>
-              </div>
+              
 
           </div>
 
