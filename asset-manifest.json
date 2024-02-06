@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lnu-library/static/css/main.7200146c.css",
-    "main.js": "/lnu-library/static/js/main.7da5e25d.js",
+    "main.css": "/lnu-library/static/css/main.1d0a8fe5.css",
+    "main.js": "/lnu-library/static/js/main.a9074879.js",
     "static/media/img11.png": "/lnu-library/static/media/img11.9f9ddf4fefe129ce2340.png",
     "static/media/libhero.jpg": "/lnu-library/static/media/libhero.a389164b42ef3a64f17f.jpg",
     "static/media/img10.png": "/lnu-library/static/media/img10.fb40774b227169eae0e2.png",
@@ -20,11 +20,11 @@
     "static/media/img13.jpg": "/lnu-library/static/media/img13.83571e5df472920a50bb.jpg",
     "index.html": "/lnu-library/index.html",
     "static/media/wave1.svg": "/lnu-library/static/media/wave1.3d17cd970be09a3a6fb2b52efd82636f.svg",
-    "main.7200146c.css.map": "/lnu-library/static/css/main.7200146c.css.map",
-    "main.7da5e25d.js.map": "/lnu-library/static/js/main.7da5e25d.js.map"
+    "main.1d0a8fe5.css.map": "/lnu-library/static/css/main.1d0a8fe5.css.map",
+    "main.a9074879.js.map": "/lnu-library/static/js/main.a9074879.js.map"
   },
   "entrypoints": [
-    "static/css/main.7200146c.css",
-    "static/js/main.7da5e25d.js"
+    "static/css/main.1d0a8fe5.css",
+    "static/js/main.a9074879.js"
   ]
 }
